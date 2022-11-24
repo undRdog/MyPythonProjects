@@ -1,15 +1,13 @@
 # Subway trip planner Budapest
 This tiny software helps you if you are not familiar with hungarian words and station names and rather you are counting how many stops are left.
 
-## Author
+### Author
 Tibor Seres, 1986
 Budapest, Hungary
 https://github.com/undRdog
 
-### Video Demo:
-https://youtu.be/aFcXsXk69S8
 
-#### Description:
+### Description:
 This program prompts the user to input the start station and the end station of his journey and outputs many useful informations:
 
 - If you need to change between lines or not
